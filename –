@@ -1,0 +1,14 @@
+[2022-05-31 20:33:57 +0000] [20458] [INFO] Starting gunicorn 20.1.0
+[2022-05-31 20:33:57 +0000] [20458] [INFO] Listening at: http://0.0.0.0:5000 (20458)
+[2022-05-31 20:33:57 +0000] [20458] [INFO] Using worker: sync
+[2022-05-31 20:33:57 +0000] [20460] [INFO] Booting worker with pid: 20460
+[2022-05-31 20:34:16 +0000] [20458] [INFO] Handling signal: int
+[2022-05-31 20:34:16 +0000] [20460] [INFO] Worker exiting (pid: 20460)
+[2022-05-31 20:34:16 +0000] [20458] [INFO] Shutting down: Master
+[2022-05-31 20:34:32 +0000] [20602] [INFO] Starting gunicorn 20.1.0
+[2022-05-31 20:34:32 +0000] [20602] [INFO] Listening at: http://0.0.0.0:5000 (20602)
+[2022-05-31 20:34:32 +0000] [20602] [INFO] Using worker: sync
+[2022-05-31 20:34:32 +0000] [20618] [INFO] Booting worker with pid: 20618
+[2022-05-31 20:36:10 +0000] [20602] [INFO] Handling signal: int
+[2022-05-31 20:36:10 +0000] [20618] [INFO] Worker exiting (pid: 20618)
+[2022-05-31 20:36:10 +0000] [20602] [INFO] Shutting down: Master
